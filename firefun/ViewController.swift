@@ -20,6 +20,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     var ref:FIRDatabaseReference?
     
+    //Saving to Firebase
     @IBAction func saveName(_ sender: Any)
     {
         
